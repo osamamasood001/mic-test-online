@@ -37,8 +37,7 @@ It is designed to be fast, simple, and privacy-friendly without requiring softwa
 Homepage: https://www.gomictest.com
 
 ## Helpful Troubleshooting Guide
-Common microphone issues and fixes:
-https://www.gomictest.com/blog/common-microphone-problems-and-fixes
+[Common microphone issues and fixes](https://www.gomictest.com/blog/common-microphone-problems-and-fixes)
 
 ## How It Works
 The browser requests microphone permission using the MediaDevices API. Once permission is granted, the app captures audio input and visualizes microphone activity in real time.
